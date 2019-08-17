@@ -4,7 +4,7 @@
     <img src="https://img.shields.io/badge/SME%20Virtual-Network-blue.svg" alt="SME Virtual Network" />
 </a>
 <a href="https://creativecommons.org/licenses/by/4.0/">
-    <img src="https://img.shields.io/badge/license-CC%20BY%204.0-green.svg" alt="Licensed Attribution 4.0 International (CC BY 4.0" />
+    <img src="https://img.shields.io/github/license/smevirtual/industry40_learning_pathway.svg" alt="Licensed under The MIT License" />
 </a>
 <a href="https://discord.gg/ufADa72">
     <img src="https://img.shields.io/discord/480736300480331796.svg" alt="SME Virtual Network Discord Chat" />
@@ -344,7 +344,7 @@ environment for all. Please take a moment to read our
 
 ### Licenses
 
-The written contents of this repository are licensed [Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
+The contents of this repository are licensed under [The MIT License](https://choosealicense.com/licenses/mit/).
 
 The icon images used are licensed under the [Icons8 License](https://icons8.com/license).
 As a requirement of that license, we must link to the [Icons8 Homepage](https://icons8.com/), which

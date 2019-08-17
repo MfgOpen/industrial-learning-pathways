@@ -1,0 +1,32 @@
+{
+  "name": "@smevirtual/industry40_learning_pathway",
+  "version": "0.0.0",
+  "description": "Meta repository for the Industry 4.0 Learning Pathway.",
+  "private": true,
+  "scripts": {
+    "build": "doctoc --title **Contents** --maxlevel 3 README.md",
+    "postinstall": "doctoc --title **Contents** --maxlevel 3 README.md"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/smevirtual/industry40_learning_pathway"
+  },
+  "author": "SME Virtual Network <open@smevirtual.com> (https://smevirtual.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/smevirtual/industry40_learning_pathway/issues"
+  },
+  "homepage": "https://smevirtual.com",
+  "devDependencies": {
+    "doctoc": "^1.4.0",
+    "husky": "^3.0.4"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "doctoc --title **Contents** --maxlevel 3 README.md"
+    }
+  },
+  "engines": {
+    "node": "10.x"
+  }
+}

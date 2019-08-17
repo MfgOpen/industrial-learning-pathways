@@ -13,11 +13,35 @@
     <img src="https://img.shields.io/reddit/subreddit-subscribers/smevirtual?style=social" alt="SME Virtual Network Reddit" />
 </a>
 
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Contents**
+
+- [Introduction](#introduction)
+- [Programming Foundations for Beginners](#programming-foundations-for-beginners)
+- [Python for Beginners](#python-for-beginners)
+- [Julia for Beginners](#julia-for-beginners)
+- [TypeScript for Beginners](#typescript-for-beginners)
+- [C# for Beginners](#c-for-beginners)
+- [C/C++ for Beginners](#cc-for-beginners)
+- [Cloud Computing for Beginners](#cloud-computing-for-beginners)
+- [IIoT for Beginners](#iiot-for-beginners)
+- [Machine Vision for Beginners](#machine-vision-for-beginners)
+- [Data Science and AI for Beginners](#data-science-and-ai-for-beginners)
+- [CNC for Beginners](#cnc-for-beginners)
+- [PLCs for Beginners](#plcs-for-beginners)
+- [Robotics for Beginners](#robotics-for-beginners)
+- [2019 Industry 4.0 Mashup](#2019-industry-40-mashup)
+- [Community Participation Guidelines](#community-participation-guidelines)
+- [Licenses](#licenses)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 ### Introduction
 
 > Computer programming is the capstone of Industry 4.0 and Smart Manufacturing.
 >
-> If you have an interest in *really* understanding advanced manufacturing, then
+> If you have an interest in _really_ understanding advanced manufacturing, then
 > you will need excellent computer programming skills.
 
 An **Industrial Learning Pathway** is a collection of freely-available, web-based

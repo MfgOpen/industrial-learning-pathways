@@ -108,10 +108,6 @@ for physical engineering and manufacturing work at the moment.
 
 **[Full YouTube Video Playlist](https://www.youtube.com/playlist?list=PLGawXYnwqLZI9Y6E6rhV7C1sEod9p2GB2)**
 
-**[Video](https://youtu.be/FWWVtUIuWow)** How to run Python Scripts and use the Python REPL
-
-**[Video](https://youtu.be/q3gg3WXI_Zs)** Project - Modeling a Simple Multi-axis Machine in Python
-
 ### Julia for Beginners
 
 Coming soon!

@@ -18,7 +18,8 @@
 **Contents**
 
 - [Introduction](#introduction)
-- [Programming Foundations for Beginners](#programming-foundations-for-beginners)
+- [Resource Types](#resource-types)
+- [Programming Foundations](#programming-foundations)
 - [Python for Beginners](#python-for-beginners)
 - [Julia for Beginners](#julia-for-beginners)
 - [TypeScript for Beginners](#typescript-for-beginners)
@@ -110,7 +111,16 @@ or reach out to the current Open Source Lead using the information below.
 
 ---
 
-### Programming Foundations for Beginners
+### Resource Types
+
+| Icon                                                                             | Description                |
+| -------------------------------------------------------------------------------- | -------------------------- |
+| <img src ="./images/icons8-play-button-48.png" alt ="Video or video playlist" /> | Video or video playlist    |
+| <img src ="./images/icons8-code-48.png" alt ="Code repository or snippet" />     | Code repository or snippet |
+
+---
+
+### Programming Foundations
 
 #### Overview
 
@@ -154,6 +164,10 @@ for physical engineering and manufacturing work at the moment.
 <a href="https://www.youtube.com/playlist?list=PLGawXYnwqLZI9Y6E6rhV7C1sEod9p2GB2">
     <img src="./images/icons8-play-button-48.png" alt="YouTube Playlist for Python for Beginners" />
 </a>SME Virtual Network Video Playlist
+<br>
+<a href="https://github.com/smevirtual/simple_cnc_model_python">
+    <img src="./images/icons8-code-48.png" alt="Simple Multi-axis (CNC) Machine Model in Python" />
+</a>Simple Multi-axis (CNC) Machine Model in Python
 
 ---
 

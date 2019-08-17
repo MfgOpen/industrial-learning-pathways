@@ -87,6 +87,8 @@ Coming soon!
 
 ### Python for Beginners
 
+#### Overview
+
 [Python](https://www.python.org/) is a great general programming language that is very popular
 across a wide-variety of domains. In some measurements, it is _the_ most
 popular programming language. Python is an excellent choice to start
@@ -96,7 +98,7 @@ emphasis on code readability and vast amount reusable libraries.
 Python likely has one of the richest open-source ecosystem of libraries
 for physical engineering and manufacturing work at the moment.
 
-**Typical Industrial Use Cases**
+#### Typical Industrial Use Cases
 
 - Numerical computing and computational geometry (e.g. PCB layouts, path planning)
 - Robotics design analysis and programming
@@ -106,13 +108,19 @@ for physical engineering and manufacturing work at the moment.
 - Machine Vision
 - Server-side web applications
 
-**[Full YouTube Video Playlist](https://www.youtube.com/playlist?list=PLGawXYnwqLZI9Y6E6rhV7C1sEod9p2GB2)**
+#### Learning Resources
+
+<a href="https://www.youtube.com/playlist?list=PLGawXYnwqLZI9Y6E6rhV7C1sEod9p2GB2k">
+    <img src="./images/icons8-play-button-48.png" alt="YouTube Playlist for Python for Beginners" />
+</a>SME Virtual Network Video Playlist
 
 ### Julia for Beginners
 
 Coming soon!
 
 ### TypeScript for Beginners
+
+#### Overview
 
 [TypeScript](https://www.typescriptlang.org/) is a programming language that is
 developed and maintained primarily by Microsoft. It is a strict superset of
@@ -128,7 +136,7 @@ designer - [Anders Hejlsberg](https://en.wikipedia.org/wiki/Anders_Hejlsberg).
 The popularity of TypeScript is [rising rapidly](https://www.techrepublic.com/article/10-most-popular-programming-languages-rise-of-typescript/) and it may very well,
 one day, become as popular as JavaScript itself.
 
-**Typical Industrial Use Cases**
+#### Typical Industrial Use Cases
 
 - Frontend web applications (i.e. constructing interactive data charts in the browser)
 - Server-side web applications (via [Node.js](https://nodejs.org/en/))
@@ -181,8 +189,13 @@ The SME Virtual Network is committed to providing a friendly, safe and welcoming
 environment for all. Please take a moment to read our
 <a href="https://github.com/smevirtual/community-guidelines/blob/master/README.md">Community Participation Guidelines</a>.
 
-### License
+### Licenses
 
-The contents of this repository are licensed [Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
+The written contents of this repository are licensed [Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
+
+The icon images used are licensed under the [Icons8 License](https://icons8.com/license).
+As a requirement of that license, we must link to the [Icons8 Homepage](https://icons8.com/), which
+is fine given the absolutely fantastic set of icons that they offer the community
+for free.
 
 For resources that are linked to, please review the corresponding of that resource.

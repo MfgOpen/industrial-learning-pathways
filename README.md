@@ -67,6 +67,9 @@ For more intermediate/advanced audiences, the "Mashup" sections might be a
 good start.
 
 For each section, there is a corresponding playlist on our [YouTube channel](https://www.youtube.com/smevirtual).
+The videos in these playlists are kept in order so that beginners or other
+interested people can watch them from start-to-finish without having to jump
+around.
 
 As always, we are open to feedback (good or bad), feel free to file a [new issue](https://github.com/smevirtual/industry40_learning_pathway/issues/new)
 or reach out to the current Open Source Lead using the information below.
@@ -83,7 +86,19 @@ or reach out to the current Open Source Lead using the information below.
 
 ### Programming Foundations for Beginners
 
+#### Overview
+
 Coming soon!
+
+#### Typical Industrial Use Case
+
+Coming soon!
+
+#### Learning Resources
+
+Coming soon!
+
+---
 
 ### Python for Beginners
 
@@ -114,9 +129,23 @@ for physical engineering and manufacturing work at the moment.
     <img src="./images/icons8-play-button-48.png" alt="YouTube Playlist for Python for Beginners" />
 </a>SME Virtual Network Video Playlist
 
+---
+
 ### Julia for Beginners
 
+#### Overview
+
 Coming soon!
+
+#### Typical Industrial Use Case
+
+Coming soon!
+
+#### Learning Resources
+
+Coming soon!
+
+---
 
 ### TypeScript for Beginners
 
@@ -141,47 +170,171 @@ one day, become as popular as JavaScript itself.
 - Frontend web applications (i.e. constructing interactive data charts in the browser)
 - Server-side web applications (via [Node.js](https://nodejs.org/en/))
 
-Videos coming soon!
+#### Learning Resources
+
+Coming soon!
+
+---
 
 ### C# for Beginners
 
+#### Overview
+
 Coming soon!
+
+#### Typical Industrial Use Case
+
+Coming soon!
+
+#### Learning Resources
+
+Coming soon!
+
+---
 
 ### C/C++ for Beginners
 
+#### Overview
+
 Coming soon!
+
+#### Typical Industrial Use Case
+
+Coming soon!
+
+#### Learning Resources
+
+Coming soon!
+
+---
 
 ### Cloud Computing for Beginners
 
+#### Overview
+
 Coming soon!
+
+#### Typical Industrial Use Case
+
+Coming soon!
+
+#### Learning Resources
+
+Coming soon!
+
+---
 
 ### IIoT for Beginners
 
+#### Overview
+
 Coming soon!
+
+#### Typical Industrial Use Case
+
+Coming soon!
+
+#### Learning Resources
+
+Coming soon!
+
+---
 
 ### Machine Vision for Beginners
 
+#### Overview
+
 Coming soon!
+
+#### Typical Industrial Use Case
+
+Coming soon!
+
+#### Learning Resources
+
+Coming soon!
+
+---
 
 ### Data Science and AI for Beginners
 
+#### Overview
+
 Coming soon!
+
+#### Typical Industrial Use Case
+
+Coming soon!
+
+#### Learning Resources
+
+Coming soon!
+
+---
 
 ### CNC for Beginners
 
+#### Overview
+
 Coming soon!
+
+#### Typical Industrial Use Case
+
+Coming soon!
+
+#### Learning Resources
+
+Coming soon!
+
+---
 
 ### PLCs for Beginners
 
+#### Overview
+
 Coming soon!
+
+#### Typical Industrial Use Case
+
+Coming soon!
+
+#### Learning Resources
+
+Coming soon!
+
+---
 
 ### Robotics for Beginners
 
+#### Overview
+
 Coming soon!
+
+#### Typical Industrial Use Case
+
+Coming soon!
+
+#### Learning Resources
+
+Coming soon!
+
+---
 
 ### 2019 Industry 4.0 Mashup
 
+#### Overview
+
 Coming soon!
+
+#### Typical Industrial Use Case
+
+Coming soon!
+
+#### Learning Resources
+
+Coming soon!
+
+---
 
 ### Community Participation Guidelines
 

@@ -23,6 +23,7 @@
 - [Julia for Beginners](#julia-for-beginners)
 - [TypeScript for Beginners](#typescript-for-beginners)
 - [C# for Beginners](#c-for-beginners)
+- [Rust for Beginners](#rust-for-beginners)
 - [C/C++ for Beginners](#cc-for-beginners)
 - [Cloud Computing for Beginners](#cloud-computing-for-beginners)
 - [IIoT for Beginners](#iiot-for-beginners)
@@ -31,7 +32,8 @@
 - [CNC for Beginners](#cnc-for-beginners)
 - [PLCs for Beginners](#plcs-for-beginners)
 - [Robotics for Beginners](#robotics-for-beginners)
-- [2019 Industry 4.0 Mashup](#2019-industry-40-mashup)
+- [Industrial Graphics for Beginners](#industrial-graphics-for-beginners)
+- [Digital Industry Virtual Conference 2020](#digital-industry-virtual-conference-2020)
 - [Community Participation Guidelines](#community-participation-guidelines)
 - [Licenses](#licenses)
 
@@ -87,8 +89,8 @@ as well.
 
 Check out each topic area below. If you are a beginner and want to explore a
 particular language, check out the "Foundations" or "for Beginners" sections.
-For more intermediate/advanced audiences, the "Mashup" sections might be a
-good start.
+For more intermediate/advanced audiences, the "Virtual Conference" sections might be a
+more fruitful area to check out.
 
 For each section, there is a corresponding playlist on our [YouTube channel](https://www.youtube.com/smevirtual).
 The videos in these playlists are kept in order so that beginners or other
@@ -114,10 +116,6 @@ or reach out to the current Open Source Lead using the information below.
 
 Coming soon!
 
-#### Typical Industrial Use Case
-
-Coming soon!
-
 #### Learning Resources
 
 Coming soon!
@@ -125,6 +123,10 @@ Coming soon!
 ---
 
 ### Python for Beginners
+
+#### Before You Begin
+
+Coming soon!
 
 #### Overview
 
@@ -157,11 +159,15 @@ for physical engineering and manufacturing work at the moment.
 
 ### Julia for Beginners
 
+#### Before You Begin
+
+Coming soon!
+
 #### Overview
 
 Coming soon!
 
-#### Typical Industrial Use Case
+#### Typical Industrial Use Cases
 
 Coming soon!
 
@@ -172,6 +178,10 @@ Coming soon!
 ---
 
 ### TypeScript for Beginners
+
+#### Before You Begin
+
+Coming soon!
 
 #### Overview
 
@@ -202,11 +212,35 @@ Coming soon!
 
 ### C# for Beginners
 
+#### Before You Begin
+
+Coming soon!
+
 #### Overview
 
 Coming soon!
 
-#### Typical Industrial Use Case
+#### Typical Industrial Use Cases
+
+Coming soon!
+
+#### Learning Resources
+
+Coming soon!
+
+---
+
+### Rust for Beginners
+
+#### Before You Begin
+
+Coming soon!
+
+#### Overview
+
+Coming soon!
+
+#### Typical Industrial Use Cases
 
 Coming soon!
 
@@ -218,11 +252,15 @@ Coming soon!
 
 ### C/C++ for Beginners
 
+#### Before You Begin
+
+Coming soon!
+
 #### Overview
 
 Coming soon!
 
-#### Typical Industrial Use Case
+#### Typical Industrial Use Cases
 
 Coming soon!
 
@@ -234,11 +272,15 @@ Coming soon!
 
 ### Cloud Computing for Beginners
 
+#### Before You Begin
+
+Coming soon!
+
 #### Overview
 
 Coming soon!
 
-#### Typical Industrial Use Case
+#### Typical Industrial Use Cases
 
 Coming soon!
 
@@ -250,11 +292,15 @@ Coming soon!
 
 ### IIoT for Beginners
 
+#### Before You Begin
+
+Coming soon!
+
 #### Overview
 
 Coming soon!
 
-#### Typical Industrial Use Case
+#### Typical Industrial Use Cases
 
 Coming soon!
 
@@ -266,11 +312,15 @@ Coming soon!
 
 ### Machine Vision for Beginners
 
+#### Before You Begin
+
+Coming soon!
+
 #### Overview
 
 Coming soon!
 
-#### Typical Industrial Use Case
+#### Typical Industrial Use Cases
 
 Coming soon!
 
@@ -282,11 +332,15 @@ Coming soon!
 
 ### Data Science and AI for Beginners
 
+#### Before You Begin
+
+Coming soon!
+
 #### Overview
 
 Coming soon!
 
-#### Typical Industrial Use Case
+#### Typical Industrial Use Cases
 
 Coming soon!
 
@@ -298,11 +352,11 @@ Coming soon!
 
 ### CNC for Beginners
 
-#### Overview
+#### Before You Begin
 
 Coming soon!
 
-#### Typical Industrial Use Case
+#### Overview
 
 Coming soon!
 
@@ -314,11 +368,11 @@ Coming soon!
 
 ### PLCs for Beginners
 
-#### Overview
+#### Before You Begin
 
 Coming soon!
 
-#### Typical Industrial Use Case
+#### Overview
 
 Coming soon!
 
@@ -330,11 +384,11 @@ Coming soon!
 
 ### Robotics for Beginners
 
-#### Overview
+#### Before You Begin
 
 Coming soon!
 
-#### Typical Industrial Use Case
+#### Overview
 
 Coming soon!
 
@@ -344,17 +398,23 @@ Coming soon!
 
 ---
 
-### 2019 Industry 4.0 Mashup
+### Industrial Graphics for Beginners
+
+#### Before You Begin
+
+Coming soon!
 
 #### Overview
 
 Coming soon!
 
-#### Typical Industrial Use Case
+#### Learning Resources
 
 Coming soon!
 
-#### Learning Resources
+---
+
+### Digital Industry Virtual Conference 2020
 
 Coming soon!
 

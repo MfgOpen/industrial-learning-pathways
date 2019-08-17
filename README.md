@@ -110,7 +110,7 @@ for physical engineering and manufacturing work at the moment.
 
 #### Learning Resources
 
-<a href="https://www.youtube.com/playlist?list=PLGawXYnwqLZI9Y6E6rhV7C1sEod9p2GB2k">
+<a href="https://www.youtube.com/playlist?list=PLGawXYnwqLZI9Y6E6rhV7C1sEod9p2GB2">
     <img src="./images/icons8-play-button-48.png" alt="YouTube Playlist for Python for Beginners" />
 </a>SME Virtual Network Video Playlist
 

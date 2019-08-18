@@ -165,10 +165,10 @@ for physical engineering and manufacturing work at the moment.
 
 #### Learning Resources
 
-| Link                                                                                                                                                                                                                                                                                               | Description                                     |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- |
-| <a href="https://www.youtube.com/playlist?list=PLGawXYnwqLZI9Y6E6rhV7C1sEod9p2GB2"><img src="./images/icons8-play-button-48.png" alt="YouTube Playlist for Python for Beginners" /></a><img src ="./images/icons8-verified-account-48.png" alt ="Resource developed by the SME Virtual Network" /> | SME Virtual Network Video Playlist              |
-| <a href="https://github.com/smevirtual/simple_cnc_model_python"><img src="./images/icons8-code-48.png" alt="Simple Multi-axis (CNC) Machine Model in Python" /></a><img src ="./images/icons8-verified-account-48.png" alt ="Resource developed by the SME Virtual Network" />                     | Simple Multi-axis (CNC) Machine Model in Python |
+| Link                                                                                                                                                                                    | Verified                                                                                                    | Description                                     |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- | ----------------------------------------------- |
+| <a href="https://www.youtube.com/playlist?list=PLGawXYnwqLZI9Y6E6rhV7C1sEod9p2GB2"><img src="./images/icons8-play-button-48.png" alt="YouTube Playlist for Python for Beginners" /></a> | <img src ="./images/icons8-verified-account-48.png" alt ="Resource developed by the SME Virtual Network" /> | SME Virtual Network Video Playlist              |
+| <a href="https://github.com/smevirtual/simple_cnc_model_python"><img src="./images/icons8-code-48.png" alt="Simple Multi-axis (CNC) Machine Model in Python" /></a>                     | <img src ="./images/icons8-verified-account-48.png" alt ="Resource developed by the SME Virtual Network" /> | Simple Multi-axis (CNC) Machine Model in Python |
 
 ---
 

@@ -113,10 +113,12 @@ or reach out to the current Open Source Lead using the information below.
 
 ### Resource Types
 
-| Icon                                                                             | Description                |
-| -------------------------------------------------------------------------------- | -------------------------- |
-| <img src ="./images/icons8-play-button-48.png" alt ="Video or video playlist" /> | Video or video playlist    |
-| <img src ="./images/icons8-code-48.png" alt ="Code repository or snippet" />     | Code repository or snippet |
+| Icon                                                                                                        | Description                                   |
+| ----------------------------------------------------------------------------------------------------------- | --------------------------------------------- |
+| <img src ="./images/icons8-play-button-48.png" alt ="Video or video playlist" />                            | Video or video playlist                       |
+| <img src ="./images/icons8-code-48.png" alt ="Code repository or snippet" />                                | Code repository or snippet                    |
+| <img src ="./images/icons8-inscription-48.png" alt ="Blog post, article or other written work" />           | Blog post, article or other written work      |
+| <img src ="./images/icons8-verified-account-48.png" alt ="Resource developed by the SME Virtual Network" /> | Resource developed by the SME Virtual Network |
 
 ---
 
@@ -161,10 +163,10 @@ for physical engineering and manufacturing work at the moment.
 
 #### Learning Resources
 
-| Link                                                                                                                                                                                    | Description                                     |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- |
-| <a href="https://www.youtube.com/playlist?list=PLGawXYnwqLZI9Y6E6rhV7C1sEod9p2GB2"><img src="./images/icons8-play-button-48.png" alt="YouTube Playlist for Python for Beginners" /></a> | SME Virtual Network Video Playlist              |
-| <a href="https://github.com/smevirtual/simple_cnc_model_python"><img src="./images/icons8-code-48.png" alt="Simple Multi-axis (CNC) Machine Model in Python" /></a>                     | Simple Multi-axis (CNC) Machine Model in Python |
+| Link                                                                                                                                                                                                                                                                                               | Description                                     |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- |
+| <a href="https://www.youtube.com/playlist?list=PLGawXYnwqLZI9Y6E6rhV7C1sEod9p2GB2"><img src="./images/icons8-play-button-48.png" alt="YouTube Playlist for Python for Beginners" /></a><img src ="./images/icons8-verified-account-48.png" alt ="Resource developed by the SME Virtual Network" /> | SME Virtual Network Video Playlist              |
+| <a href="https://github.com/smevirtual/simple_cnc_model_python"><img src="./images/icons8-code-48.png" alt="Simple Multi-axis (CNC) Machine Model in Python" /></a><img src ="./images/icons8-verified-account-48.png" alt ="Resource developed by the SME Virtual Network" />                     | Simple Multi-axis (CNC) Machine Model in Python |
 
 ---
 

@@ -12,6 +12,8 @@
 <a href="https://www.reddit.com/r/SMEVirtual">
     <img src="https://img.shields.io/reddit/subreddit-subscribers/smevirtual?style=social" alt="SME Virtual Network Reddit" />
 </a>
+<br/><br/>
+<img src="./images/industry40-pathway--github.png" alt="Industry 4.0 Learning Pathway" height="320px" />
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->

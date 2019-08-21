@@ -34,7 +34,7 @@
 - [Data Science and AI for Beginners](#data-science-and-ai-for-beginners)
 - [CNC for Beginners](#cnc-for-beginners)
 - [PLCs for Beginners](#plcs-for-beginners)
-- [Robotics for Beginners](#robotics-for-beginners)
+- [Robotics, Mechatronics and System Design for Beginners](#robotics-mechatronics-and-system-design-for-beginners)
 - [Industrial Graphics for Beginners](#industrial-graphics-for-beginners)
 - [Digital Industry Virtual Conference 2020](#digital-industry-virtual-conference-2020)
 - [Community Participation Guidelines](#community-participation-guidelines)
@@ -403,7 +403,7 @@ Coming soon!
 
 ---
 
-### Robotics for Beginners
+### Robotics, Mechatronics and System Design for Beginners
 
 #### Before You Begin
 

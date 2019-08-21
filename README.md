@@ -223,9 +223,10 @@ one day, become as popular as JavaScript itself.
 
 #### Learning Resources
 
-| Link                                                                                                                                                                                |     | Description                                            |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- | ------------------------------------------------------ |
-| <a href="https://www.typescriptlang.org/docs/handbook/basic-types.html"><img src="./images/icons8-study-48.png" alt="Official TypeScript Step-by-Step Handbook by Microsoft" /></a> |     | Official TypeScript Step-by-Step Handbook by Microsoft |
+| Link                                                                                                                                                                                        |                                                                                                                                                                                                 | Description                                            |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ |
+| <a href="https://www.youtube.com/playlist?list=PLGawXYnwqLZIFcU99ayFNWW5Jnf6JTHLe"><img src="./images/icons8-play-button-48.png" alt="YouTube Playlist for TypeScript for Beginners" /></a> | <img src ="./images/icons8-verified-account-48.png" alt ="Resource developed by the SME Virtual Network" /><img src ="./images/icons8-team-48.png" alt ="Resource developed by a SME member" /> | TypeScript for Beginners Playlist                      |
+| <a href="https://www.typescriptlang.org/docs/handbook/basic-types.html"><img src="./images/icons8-study-48.png" alt="Official TypeScript Step-by-Step Handbook by Microsoft" /></a>         |                                                                                                                                                                                                 | Official TypeScript Step-by-Step Handbook by Microsoft |
 
 ---
 
@@ -300,9 +301,10 @@ might one day rival the widespread use of C and C++.
 
 #### Learning Resources
 
-| Link                                                                                                              |     | Description                             |
-| ----------------------------------------------------------------------------------------------------------------- | --- | --------------------------------------- |
-| <a href="https://doc.rust-lang.org/book/"><img src="./images/icons8-study-48.png" alt="Official Rust Book" /></a> |     | Official Rust Programming Language Book |
+| Link                                                                                                                                                                                  |                                                                                                                                                                                                 | Description                             |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------- |
+| <a href="https://www.youtube.com/playlist?list=PLGawXYnwqLZI00aLalPOSRyTdurCCYUpj"><img src="./images/icons8-play-button-48.png" alt="YouTube Playlist for Rust for Beginners" /></a> | <img src ="./images/icons8-verified-account-48.png" alt ="Resource developed by the SME Virtual Network" /><img src ="./images/icons8-team-48.png" alt ="Resource developed by a SME member" /> | Rust for Beginners Playlist             |
+| <a href="https://doc.rust-lang.org/book/"><img src="./images/icons8-study-48.png" alt="Official Rust Book" /></a>                                                                     |                                                                                                                                                                                                 | Official Rust Programming Language Book |
 
 ---
 

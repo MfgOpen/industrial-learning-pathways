@@ -219,11 +219,13 @@ one day, become as popular as JavaScript itself.
 #### Typical Industrial Use Cases
 
 - Frontend web applications (i.e. constructing interactive data charts in the browser)
-- Server-side web applications (via [Node.js](https://nodejs.org/en/))
+- Server-side web applications (via [Node.js](https://nodejs.org/en/), soft real-time apps such as gathering live machine data from the floor)
 
 #### Learning Resources
 
-Coming soon!
+| Link                                                                                                                                                                                |     | Description                                            |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- | ------------------------------------------------------ |
+| <a href="https://www.typescriptlang.org/docs/handbook/basic-types.html"><img src="./images/icons8-study-48.png" alt="Official TypeScript Step-by-Step Handbook by Microsoft" /></a> |     | Official TypeScript Step-by-Step Handbook by Microsoft |
 
 ---
 

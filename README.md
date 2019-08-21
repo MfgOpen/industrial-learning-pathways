@@ -265,7 +265,9 @@ Coming soon!
 
 #### Learning Resources
 
-Coming soon!
+| Link                                                                                                              |     | Description                             |
+| ----------------------------------------------------------------------------------------------------------------- | --- | --------------------------------------- |
+| <a href="https://doc.rust-lang.org/book/"><img src="./images/icons8-study-48.png" alt="Official Rust Book" /></a> |     | Official Rust Programming Language Book |
 
 ---
 

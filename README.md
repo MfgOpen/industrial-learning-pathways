@@ -122,6 +122,7 @@ or reach out to the current Open Source Lead using the information below.
 | <img src ="./images/icons8-page-48.png" alt ="Blog post, article or other short written work" />            | Blog post, article or other short written work     |
 | <img src ="./images/icons8-study-48.png" alt ="Online book or other long, multi-part written work" />       | Online book or other long, multi-part written work |
 | <img src ="./images/icons8-verified-account-48.png" alt ="Resource developed by the SME Virtual Network" /> | Resource developed by the SME Virtual Network      |
+| <img src ="./images/icons8-team-48.png" alt ="Resource developed by a SME member" />                        | Resource developed by a SME member                 |
 
 ---
 
@@ -166,10 +167,10 @@ for physical engineering and manufacturing work at the moment.
 
 #### Learning Resources
 
-| Link                                                                                                                                                                                    |                                                                                                             | Description                                     |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- | ----------------------------------------------- |
-| <a href="https://www.youtube.com/playlist?list=PLGawXYnwqLZI9Y6E6rhV7C1sEod9p2GB2"><img src="./images/icons8-play-button-48.png" alt="YouTube Playlist for Python for Beginners" /></a> | <img src ="./images/icons8-verified-account-48.png" alt ="Resource developed by the SME Virtual Network" /> | Python for Beginners Playlist                   |
-| <a href="https://github.com/smevirtual/simple_cnc_model_python"><img src="./images/icons8-code-48.png" alt="Simple Multi-axis (CNC) Machine Model in Python" /></a>                     | <img src ="./images/icons8-verified-account-48.png" alt ="Resource developed by the SME Virtual Network" /> | Simple Multi-axis (CNC) Machine Model in Python |
+| Link                                                                                                                                                                                    |                                                                                                                                                                                                 | Description                                     |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- |
+| <a href="https://www.youtube.com/playlist?list=PLGawXYnwqLZI9Y6E6rhV7C1sEod9p2GB2"><img src="./images/icons8-play-button-48.png" alt="YouTube Playlist for Python for Beginners" /></a> | <img src ="./images/icons8-verified-account-48.png" alt ="Resource developed by the SME Virtual Network" /><img src ="./images/icons8-team-48.png" alt ="Resource developed by a SME member" /> | Python for Beginners Playlist                   |
+| <a href="https://github.com/smevirtual/simple_cnc_model_python"><img src="./images/icons8-code-48.png" alt="Simple Multi-axis (CNC) Machine Model in Python" /></a>                     | <img src ="./images/icons8-verified-account-48.png" alt ="Resource developed by the SME Virtual Network" /><img src ="./images/icons8-team-48.png" alt ="Resource developed by a SME member" /> | Simple Multi-axis (CNC) Machine Model in Python |
 
 ---
 

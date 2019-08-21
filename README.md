@@ -115,12 +115,13 @@ or reach out to the current Open Source Lead using the information below.
 
 ### Resource Types
 
-| Icon                                                                                                        | Description                                   |
-| ----------------------------------------------------------------------------------------------------------- | --------------------------------------------- |
-| <img src ="./images/icons8-play-button-48.png" alt ="Video or video playlist" />                            | Video or video playlist                       |
-| <img src ="./images/icons8-code-48.png" alt ="Code repository or snippet" />                                | Code repository or snippet                    |
-| <img src ="./images/icons8-inscription-48.png" alt ="Blog post, article or other written work" />           | Blog post, article or other written work      |
-| <img src ="./images/icons8-verified-account-48.png" alt ="Resource developed by the SME Virtual Network" /> | Resource developed by the SME Virtual Network |
+| Icon                                                                                                        | Description                                        |
+| ----------------------------------------------------------------------------------------------------------- | -------------------------------------------------- |
+| <img src ="./images/icons8-play-button-48.png" alt ="Video or video playlist" />                            | Video or video playlist                            |
+| <img src ="./images/icons8-code-48.png" alt ="Code repository or snippet" />                                | Code repository or snippet                         |
+| <img src ="./images/icons8-page-48.png" alt ="Blog post, article or other short written work" />            | Blog post, article or other short written work     |
+| <img src ="./images/icons8-study-48.png" alt ="Online book or other long, multi-part written work" />       | Online book or other long, multi-part written work |
+| <img src ="./images/icons8-verified-account-48.png" alt ="Resource developed by the SME Virtual Network" /> | Resource developed by the SME Virtual Network      |
 
 ---
 

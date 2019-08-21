@@ -257,11 +257,46 @@ Coming soon!
 
 #### Overview
 
-Coming soon!
+[Rust](https://www.rust-lang.org/) is a systems programming language along the
+same lines as C and C++. A systems programming language is suitable for building
+lower-level software platforms (i.e. game engines, operating systems,
+industrial automation platforms) which are used by higher-level
+software directly exposed to users (i.e. computer games, CAM systems, systems
+design tools).
+
+However, Rust has some unique differences from more historical programming
+languages such as C and C++ - namely, it is designed from the ground up to
+provide safe concurrency and better memory safety while achieving a high
+degree of performance.
+
+The lack of constructs to support safe memory guarantees
+are a major source of hard-to-catch bugs and significant security issues in
+C and C++ even with highly experienced programmers. When one is dealing with
+industrial software, security issues that might harm physical equipment or shut
+down production are to be avoided at all costs if possible. Rust helps achieve
+that more "automatically".
+
+Of course this does **not** mean that C and C++ knowledge is useless. Quite the
+contrary in fact. C and C++ have a storied, proven and very successful history.
+C++ is [ISO standardized](https://isocpp.org/std/the-standard) and used throughout
+many mission-critical systems in the manufacturing industry.
+
+Rust is a young programming language in relative terms considering that it
+started development in 2010.
+
+For new systems programming projects, Rust is definitely worth a look. In maintaining
+existing C/C++ codebases though, a good working knowledge of C/C++ is extremely
+helpful even if some components can be written or migrated to Rust.
+
+All of that said, Rust is [growing in popularity](https://insights.stackoverflow.com/survey/2019#technology-_-most-loved-dreaded-and-wanted-languages) with the technology community and
+might one day rival the widespread use of C and C++.
 
 #### Typical Industrial Use Cases
 
-Coming soon!
+- Hard real-time operating systems
+- Embedded operating systems for constrained devices (e.g. IIoT)
+- Simulation and graphics engines
+- Industrial control systems (e.g. CNCs, PLCs)
 
 #### Learning Resources
 

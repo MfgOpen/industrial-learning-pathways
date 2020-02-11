@@ -1,13 +1,13 @@
-## Industrial Learning Pathway
+## Industrial Learning Pathways
 
 <a href="https://creativecommons.org/licenses/by/4.0/">
-    <img src="https://img.shields.io/github/license/MfgOpen/industrial-learning-pathway.svg" alt="Licensed under The MIT License" />
+    <img src="https://img.shields.io/github/license/MfgOpen/industrial-learning-pathways.svg" alt="Licensed under The MIT License" />
 </a>
 <a href="https://discord.gg/ufADa72">
     <img src="https://img.shields.io/discord/480736300480331796.svg" alt="ManufacturingOpen Discord Chat" />
 </a>
 <br/><br/>
-<img src="./images/industrial-pathway--github--dark.png" alt="Industrial Learning Pathway" height="320px" />
+<img src="./images/industrial-pathways--github--dark.png" alt="Industrial Learning Pathway" height="320px" />
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
@@ -77,7 +77,7 @@ For each section, there is a corresponding playlist on our
 order so that beginners or other interested people can watch them from start-to-finish without having to jump around.
 
 As always, we are open to feedback (good or bad), feel free to file a
-[new issue](https://github.com/MfgOpen/industrial-learning-pathway/issues/new) or reach out to the current Open Source
+[new issue](https://github.com/MfgOpen/industrial-learning-pathways/issues/new) or reach out to the current Open Source
 Lead using the information below.
 
 ### Contributors

@@ -1,7 +1,7 @@
 {
-  "name": "@mfgopen/industrial-learning-pathway",
+  "name": "@mfgopen/industrial-learning-pathways",
   "version": "0.0.0",
-  "description": "Meta repository for the ManufacturingOpen Industrial Learning Pathway.",
+  "description": "Meta repository for the ManufacturingOpen Industrial Learning Pathways.",
   "private": true,
   "scripts": {
     "build": "doctoc --title **Contents** --maxlevel 3 README.md",
@@ -9,12 +9,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/MfgOpen/industrial-learning-pathway"
+    "url": "https://github.com/MfgOpen/industrial-learning-pathways"
   },
   "author": "ManufacturingOpen Foundation <open@alliedstrand.com> (https://mfgopen.com)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/MfgOpen/industrial-learning-pathway/issues"
+    "url": "https://github.com/MfgOpen/industrial-learning-pathways/issues"
   },
   "homepage": "https://mfgopen.com",
   "devDependencies": {

@@ -1,0 +1,15 @@
+dist
+esm
+
+node_modules
+
+# Changelogs
+**/CHANGELOG.md
+
+# Examples
+**/examples/**
+
+# Yarn
+**/.yarn/**
+yarn.lock
+**/yarn.lock

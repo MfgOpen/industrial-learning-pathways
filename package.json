@@ -1,7 +1,7 @@
 {
-  "name": "@smevirtual/industry40_learning_pathway",
+  "name": "@mfgopen/industrial-learning-pathway",
   "version": "0.0.0",
-  "description": "Meta repository for the Industry 4.0 Learning Pathway.",
+  "description": "Meta repository for the ManufacturingOpen Industrial Learning Pathway.",
   "private": true,
   "scripts": {
     "build": "doctoc --title **Contents** --maxlevel 3 README.md",
@@ -9,17 +9,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/smevirtual/industry40_learning_pathway"
+    "url": "https://github.com/MfgOpen/industrial-learning-pathway"
   },
-  "author": "SME Virtual Network <open@smevirtual.com> (https://smevirtual.com)",
+  "author": "ManufacturingOpen Foundation <open@alliedstrand.com> (https://mfgopen.com)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/smevirtual/industry40_learning_pathway/issues"
+    "url": "https://github.com/MfgOpen/industrial-learning-pathway/issues"
   },
-  "homepage": "https://smevirtual.com",
+  "homepage": "https://mfgopen.com",
   "devDependencies": {
     "doctoc": "^1.4.0",
-    "husky": "^3.0.4"
+    "husky": "^3.0.4",
+    "prettier": "^1.19.1"
   },
   "husky": {
     "hooks": {
@@ -27,6 +28,6 @@
     }
   },
   "engines": {
-    "node": "10.x"
+    "node": ">=12"
   }
 }

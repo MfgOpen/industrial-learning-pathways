@@ -3,14 +3,15 @@
 <a href="https://creativecommons.org/licenses/by/4.0/">
     <img src="https://img.shields.io/github/license/MfgOpen/industrial-learning-pathways.svg" alt="Licensed under The MIT License" />
 </a>
-<a href="https://discord.gg/ufADa72">
-    <img src="https://img.shields.io/discord/480736300480331796.svg" alt="ManufacturingOpen Discord Chat" />
+<a href="https://discord.gg/ssvcVNJ">
+    <img src="https://img.shields.io/discord/677517706940907521.svg" alt="ManufacturingOpen Discord Chat" />
 </a>
 <br/><br/>
 <img src="./images/industrial-pathways--github--dark.png" alt="Industrial Learning Pathway" height="320px" />
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
 **Contents**
 
 - [Introduction](#introduction)
